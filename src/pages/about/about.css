@@ -1,0 +1,17 @@
+.aboutInfo {
+    text-align: center;
+    margin: 60px;
+    font-family: 'Source Code Pro';
+}
+
+.aboutImg {
+    float: left;
+    margin: 5px;
+    height: 200px;
+    width: auto;
+}
+
+.aboutDesc {
+    text-align: justify;
+    font-size: 20px;
+}

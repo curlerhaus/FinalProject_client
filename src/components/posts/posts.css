@@ -1,0 +1,13 @@
+.posts {
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.singlePost {
+    border: 1px solid lightgray;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
