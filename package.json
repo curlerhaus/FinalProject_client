@@ -38,6 +38,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://final-project-api-teal.vercel.app/api/",
+  "proxy": "http://localhost:3003/api/",
   "engines": {"node": "18.x"}
 }
